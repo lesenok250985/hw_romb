@@ -1,0 +1,15 @@
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.csproj.AssemblyReference.cache
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.AssemblyInfoInputs.cache
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.AssemblyInfo.cs
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.csproj.CoreCompileInputs.cache
+C:\Users\vlsse\source\repos\romb\romb\bin\Debug\net6.0\romb.exe
+C:\Users\vlsse\source\repos\romb\romb\bin\Debug\net6.0\romb.deps.json
+C:\Users\vlsse\source\repos\romb\romb\bin\Debug\net6.0\romb.runtimeconfig.json
+C:\Users\vlsse\source\repos\romb\romb\bin\Debug\net6.0\romb.dll
+C:\Users\vlsse\source\repos\romb\romb\bin\Debug\net6.0\romb.pdb
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.dll
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\refint\romb.dll
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.pdb
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\romb.genruntimeconfig.cache
+C:\Users\vlsse\source\repos\romb\romb\obj\Debug\net6.0\ref\romb.dll
